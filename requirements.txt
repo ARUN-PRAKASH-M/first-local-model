@@ -1,0 +1,5 @@
+python-dotenv
+langchain_openai
+langchain_community
+langchain_core
+PyPDF2
